@@ -4,4 +4,3 @@ PatakaFW is a simple PHP framework with bootstrap
 - Language and i18n selector
 - Set Up Email preferences
 - Social Network login/register/connect
-- 
