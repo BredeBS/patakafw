@@ -7,12 +7,16 @@ PatakaFW is a simple PHP framework with bootstrap. I use in several client's web
 - Fill the data
 - You can create modules (CRUD) from /Administracion/Configuracion/Generador.html
 
+
 # TO-DO
 - Language and i18n selector
 - Set Up Email preferences
 - Social Network login/register/connect
 - Change some copyright on files
 - User Manual
+- Validation Side
+- Autogenerate documentation
+- Full REST API
 
 # Use some work from
 - [Bootstrap](http://getbootstrap.com/) 
