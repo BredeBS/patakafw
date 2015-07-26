@@ -21,6 +21,7 @@ PatakaFW is a simple PHP framework with bootstrap. I use in several client's web
 - [Sweet Alert](http://t4t5.github.io/sweetalert/)
 - [Bootstrap DatePicker](http://www.malot.fr/bootstrap-datetimepicker/index.php)
 - [SummerNote](http://summernote.org)
+- [BootSnip](http://bootsnipp.com/)
 
 # With some ideas from
 - [ADOdb Database Abstraction Library for PHP](http://adodb.sourceforge.net/)
