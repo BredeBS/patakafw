@@ -8,5 +8,5 @@ PatakaFW is a simple PHP framework with bootstrap
 
 #Based on
 Twitter Bootstrap
-*(http://vadimg.com/twitter-bootstrap-wizard-example/examples/validation.html)Bootstrap Wizard 
+- (http://vadimg.com/twitter-bootstrap-wizard-example/examples/validation.html)Bootstrap Wizard 
 
