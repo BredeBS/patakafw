@@ -9,6 +9,7 @@ PatakaFW is a simple PHP framework with bootstrap. I use in several client's web
 
 
 # TO-DO
+- Log Errors
 - Language and i18n selector
 - Set Up Email preferences
 - Social Network login/register/connect
